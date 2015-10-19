@@ -2,7 +2,7 @@
 
 ![Banner da disciplina](assets/dafrad.png)
 
-A disciplina de Desenvolvimento Ágil com Ferramentas RAD (DAFRAD) do Curso Superior de Tecnologia em Sistemas para Internet tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento ágil para Web através do framework Ruby on Rails. Sua carga horária apresenta um total de 50 horas aula e será ministrada pelos professores [Luiz Carlos]() e [Daniel Vilar](). Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
+A disciplina de Desenvolvimento Ágil com Ferramentas RAD (DAFRAD) do Curso Superior de Tecnologia em Sistemas para Internet do IFPB tem como objetivo apresentar ao aluno conceitos sobre desenvolvimento ágil para Web através do framework Ruby on Rails. Sua carga horária apresenta um total de 50 horas aula e será ministrada pelos professores [Luiz Carlos]() e [Daniel Vilar](). Para as aulas serão utilizadas exposições e atividades práticas, além de avaliações individuais e em grupo.
 
 ## Conteúdo
 
