@@ -7,20 +7,17 @@ A disciplina de Desenvolvimento Ágil com Ferramentas RAD (DAFRAD) do Curso Supe
 ## Conteúdo
 
 * Introdução ao desenvolvimento ágil
+  * Metodologia, linguagem e framework ágil
   * Ambientes de desenvolvimento e integração contínua
-  * Poder do shell e geração de código
-  * Metodologias ágeis
-  * Comparativos sobre frameworks ágeis
+  * O poder do shell e a geração de código
 * Sintaxe do Ruby
-  * Introdução e estrutura da linguagem
-  * Elementos Básicos
-  * Expressões
-  * Funções e Blocos
-  * Objetos
-  * Extensões da linguagem
+  * Característica e estrutura da linguagem
+  * Instalação e utilitários: irb, pry, ri, rdoc, gem
+  * Elementos Básicos, Expressões, Funções e Blocos
+  * Objetos e Extensões da linguagem
 * Framework Rails
   * Introdução e estrutura do framework
-  * Utilitários: irb, rails, rake, bundle
+  * Utilitários: rake, bundle, rails
   * Estrutua do MVC
   * Active Record, Migration, Association, Validation
   * Layout, Partial, Helper, Assets Pipeline
