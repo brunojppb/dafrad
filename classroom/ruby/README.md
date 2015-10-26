@@ -2,7 +2,7 @@
 
 * [Site Ruby](https://www.ruby-lang.org/en/) ( [About](https://www.ruby-lang.org/en/about/) / [Docs](https://www.ruby-lang.org/en/documentation/) )
 * Instalação: [Source](https://www.ruby-lang.org/en/downloads/), [RVM](https://rvm.io/rvm/install), [rails-dev-box](https://github.com/rails/rails-dev-box), [heroku-docker](https://hub.docker.com/r/heroku/ruby/)
-* Ferramentas: ruby, irb, ri, rdoc, [pry](http://pryrepl.org/), [bundler](http://bundler.io/), [rake](https://github.com/ruby/rake)
+* Ferramentas: ruby, irb, ri, rdoc, [pry](http://pryrepl.org/), gem, [bundler](http://bundler.io/), [rake](https://github.com/ruby/rake)
 
 ### Documentação
 * [Ruby Doc](http://ruby-doc.org/)
