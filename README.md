@@ -48,7 +48,7 @@ Toda a comunicação será realizada usando o [![Gitter](https://badges.gitter.i
 
 ### Bibliografia Básica
 
-[![Rails Tutorial](assets/rails-tutorial.png)](https://www.railstutorial.org/) [![Agile Rails](assets/agile-rails4.jpg)](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+[![Rails Tutorial](assets/rails-tutorial.png)](https://www.railstutorial.org/) [![Agile Rails](assets/agile-rails4.jpg)](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)[![API on Rails](assets/api-on-rails.png)](http://apionrails.icalialabs.com/book)
 
 ### Bibliografia Complementar
 
