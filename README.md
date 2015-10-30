@@ -52,4 +52,5 @@ Toda a comunicação será realizada usando o [![Gitter](https://badges.gitter.i
 
 ### Bibliografia Complementar
 
-[![Rails Tutorial](assets/ruby.png)](http://www.casadocodigo.com.br/products/livro-ruby) [![Agile Rails](assets/rails.png)](http://www.casadocodigo.com.br/products/livro-ruby-on-rails)
+[![Ruby Aprenda a Programar](assets/ruby.png)](http://www.casadocodigo.com.br/products/livro-ruby) [![Ruby On Rails Coloque sua aplicação nos trilhos](assets/rails.png)](http://www.casadocodigo.com.br/products/livro-ruby-on-rails) [![Learn Ruby The Hard Way](assets/hard-way.png)](http://learnrubythehardway.org/book/)
+
